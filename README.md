@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jp-karthik
+- 👋 Hi, I’m Karthik
 - 👀 I’m interested in competitive programming, learning various data structures and algorithms, web design and development.
 - 🌱 I’m currently learning ReactJS, Java and C++ (OOPS), NodeJS ...
 
