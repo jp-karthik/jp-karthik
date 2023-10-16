@@ -7,7 +7,7 @@ jp-karthik/jp-karthik is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Karthik JP</h1>
-<h3 align="center">I’m interested in competitive programming, learning various data structures and algorithms, web design and development.</h3>
+<h3 align="center">I’m interested in competitive programming, learning various data structures and algorithms, and software design and development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jp-karthik&label=Profile%20views&color=0e75b6&style=flat" alt="jp-karthik" /> </p>
 
