@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/_jpkarthik" target="blank"><img src="https://img.shields.io/twitter/follow/_jpkarthik?logo=twitter&style=for-the-badge" alt="_jpkarthik" /></a> </p>
 
-- 🌱 I’m currently learning **learning ReactJS, Java and C++ (OOPS), NodeJS ...**
+- 🌱 I’m currently curious & learning about Data, Linear Algebra, Statistics and Machine Learning ...**
 
 - 📫 How to reach me **karthikjagadeeshponarkar@gmail.com**
 
